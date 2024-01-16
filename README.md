@@ -12,7 +12,7 @@ Video: https://www.youtube.com/watch?v=_sMbQETVoOk <br>
 5. Try to click the '+' button again and the iPhone crashes & restarts automatically after a few minutes. <br>
 <br>
 <h5>PoC (Proof of Concept) - Case 2:</h5>
-Video: https://youtu.be/i-C3W2cVutw
+Video: https://youtu.be/i-C3W2cVutw <br>
 1. Create a random folder with some apps <br>
 2. On Jiggle Mode, click the name of the folder and hold Space for Trackpad Mode <br>
 3. While holding Space with one finger, with another finger click in the middle right/left edge of the screen <br>
