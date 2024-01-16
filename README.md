@@ -18,6 +18,6 @@ Video: https://youtu.be/i-C3W2cVutw <br>
 3. While holding Space with one finger, with another finger click in the middle right/left edge of the screen <br>
 4. Get in Jiggle Mode again and try to go in that folder and edit something, the iPhone will crash. <br>
 <br>
-<b>Note: </b> Published for educational purposes. I do NOT take any responsibility for the misuse of this bug or for the potential damage that it can cause to your device.
+<b>NOTE: </b> Published for educational purposes. I do NOT take any responsibility for the misuse of this bug or for the potential damage that it can cause to your device.
 
 
